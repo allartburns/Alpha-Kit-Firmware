@@ -19,7 +19,16 @@ Sketches and libraries released by the companies that manufacture each component
 * [Github](https://github.com/pololu/qtr-sensors-arduino)
 
 **DSB1820 - Temperature Sensor**
+
 * [Datasheet](http://datasheets.maxim-ic.com/en/ds/DS18B20.pdf)
 * [Example Project](http://mbed.org/users/snatch59/notebook/onewirecrc/)
 * [Tutorial](http://bildr.org/2011/07/ds18b20-arduino/)
 * [Github](https://github.com/adafruit/DHT-sensor-library)
+
+**CC3000 - WiFi Shield**
+
+* [Schematic](https://cdn.sparkfun.com/datasheets/Wireless/WiFi/CC3000_WiFi_Shield.pdf)
+* [Datasheet](https://cdn.sparkfun.com/datasheets/Wireless/WiFi/cc3000.pdf)
+* [Hookup Guide](https://learn.sparkfun.com/tutorials/cc3000-hookup-guide)
+* [Github](http://github.com/sparkfun/SFE_CC3000_Library/archive/master.zip)
+
