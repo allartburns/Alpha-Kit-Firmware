@@ -32,3 +32,9 @@ Sketches and libraries released by the companies that manufacture each component
 * [Hookup Guide](https://learn.sparkfun.com/tutorials/cc3000-hookup-guide)
 * [Github](http://github.com/sparkfun/SFE_CC3000_Library/archive/master.zip)
 
+**SHT15 - Temperature & Humidity Sensor**
+
+* [Datasheet](http://www.sparkfun.com/datasheets/Sensors/Datasheet-humidity-sensor-SHT1x.pdf)
+* [Example C Code](http://www.sparkfun.com/datasheets/Sensors/SHT15-Testing-v11.zip)
+* [Bildr Tutorial](http://bildr.org/2012/11/sht15-arduino/)
+* [Github](https://github.com/sparkfun/SHT15_Breakout)
