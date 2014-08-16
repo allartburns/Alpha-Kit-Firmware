@@ -9,14 +9,10 @@ The **Open Source Beehives** project is a network of citizen scientists tracking
 ### Index
 ------------------------------
 
-**3rd Party Sketches**
+**3rd Party Firmware**
 
-Arduino sketches and libraries from the manufacturers of the components.
+Code from the manufacturers of the components.
 
-**Reference Projects**
+**OSBH Firmware**
 
-Independent projects using relevant components to be used as examples.
-
-**Test Sketches**
-
-In-house tests using relevant components.
+Code being tested by the OSBH team.
