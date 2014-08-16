@@ -41,3 +41,8 @@
 
 * [Spark Core Phant Library](https://github.com/romainmp/phant)
 * [Phant Documentation](http://phant.io)
+
+**Spark Core SD Library**
+
+* [Spark Core - Github](https://github.com/technobly/SparkCore-SD)
+* [Spark Forums](https://community.spark.io/t/micro-sd-card-library/2666/31)
