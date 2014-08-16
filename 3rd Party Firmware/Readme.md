@@ -36,3 +36,8 @@
 * [Example C Code](http://www.sparkfun.com/datasheets/Sensors/SHT15-Testing-v11.zip)
 * [Bildr Tutorial](http://bildr.org/2012/11/sht15-arduino/)
 * [Github](https://github.com/sparkfun/SHT15_Breakout)
+
+**Phant - SparkFun Data Storage**
+
+*[Spark Core Phant Library](https://github.com/romainmp/phant)
+*[Phant Documentation](http://phant.io)
