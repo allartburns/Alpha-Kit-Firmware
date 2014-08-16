@@ -1,4 +1,4 @@
-##3rd Party Sketches
+##3rd Party Firmware
 
 Sketches and libraries released by the companies that manufacture each component.
 
