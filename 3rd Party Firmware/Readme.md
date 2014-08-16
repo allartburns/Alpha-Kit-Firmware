@@ -1,3 +1,10 @@
+<<<<<<< HEAD:3rd Party Firmware/Readme.md
+=======
+##3rd Party Firmware
+
+Sketches and libraries released by the companies that manufacture each component.
+
+>>>>>>> origin/master:3rd Party Firmware/Arduino/Readme.md
 ###Links
 ------------------
 
