@@ -39,5 +39,5 @@
 
 **Phant - SparkFun Data Storage**
 
-*[Spark Core Phant Library](https://github.com/romainmp/phant)
-*[Phant Documentation](http://phant.io)
+* [Spark Core Phant Library](https://github.com/romainmp/phant)
+* [Phant Documentation](http://phant.io)
