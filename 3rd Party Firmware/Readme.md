@@ -19,7 +19,8 @@
 * [Datasheet](http://datasheets.maxim-ic.com/en/ds/DS18B20.pdf)
 * [Example Project](http://mbed.org/users/snatch59/notebook/onewirecrc/)
 * [Tutorial](http://bildr.org/2011/07/ds18b20-arduino/)
-* [Github](https://github.com/adafruit/DHT-sensor-library)
+* [Github](https://github.com/adafruit/DHT-sensor-library) - *Arduino*
+* [Spark Forum](http://community.spark.io/t/spark-core-and-ds18b20-digital-temperature-sensor/4446)
 
 **CC3000 - WiFi Shield**
 
