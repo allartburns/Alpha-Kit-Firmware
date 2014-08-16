@@ -1,7 +1,3 @@
-##3rd Party Sketches
-
-Sketches and libraries released by the companies that manufacture each component.
-
 ###Links
 ------------------
 
